@@ -1,0 +1,1 @@
+export const GRAPHQL_API = 'http://api.crystallize.com/graphql';
